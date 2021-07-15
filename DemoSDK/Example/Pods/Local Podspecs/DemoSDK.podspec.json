@@ -1,0 +1,22 @@
+{
+  "name": "DemoSDK",
+  "version": "0.1.0",
+  "summary": "A short description of DemoSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RONAKSANKHALA/DemoSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RONAKSANKHALA": "ronak.sankhala@techholding.co"
+  },
+  "source": {
+    "git": "https://github.com/RONAKSANKHALA/DemoSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DemoSDK/Classes/**/*"
+}
